@@ -33,7 +33,7 @@
 - 0.2.21-254  0.2.21 slight change to dterm calc (like the old days)
 - 0.2.22-255  update FF to use the iDT instead of pidfrequency
 - 0.2.23-256  [Known good] 0.2.23 spa per axis, acrotrainer removed
-- 0.2.24-260  [experimental/bug] 0.2.24 (added a min/max motor change)
+- 0.2.24-260  [experimental/bug] 0.2.24 (added a min/max motor change) (first w/ 1.44msp number but no msp change)
 - 0.2.25-261  [experimental iTerm Calcs v1]
 - 0.2.26-262  [experimental iTerm Calcs v2 / fixed bug, but horrible drift] 0.2.26
 - 0.2.27-263  [revert iTerm Calcs] 0.2.27 fix the dang bugs
@@ -43,7 +43,7 @@
 - 0.2.30-270  Added: LPF per axis, dterm lpf2, smart_dterm_smooth per axis, remove yaw lpf, remove dterm notch
 - 0.2.30-271  fixing silly targets
 - 0.2.31-272  QuickFlash is an idiot helio works on this (2020 Feb 08)
-- 0.2.32-273  Removed r_weight, made static; removed the motor min/max changes; added sharpness for helio imuf. v2fonts.
+- 0.2.32-273  Removed r_weight, made static; removed the motor min/max changes; added sharpness for helio imuf. first  w/ v2fonts.
 - 0.2.33-274  better defaults smart_dterm_yaw=0, witchcraft_yaw=0
 - 0.2.34-275  increasing max value for IMUF Sharpness as well as imuf 227 [0.2.34](https://github.com/emuflight/EmuFlight/commit/dbfca3c25c022d1e71c234cc88a2b37393bca2f5)
 - 0.2.35-276  msp updates, change to vbat pid compensation, now it only effects pterm [0.2.35](https://github.com/emuflight/EmuFlight/commit/4e9f735e95b8da62fa2fd519def32716b7a06ff4)
