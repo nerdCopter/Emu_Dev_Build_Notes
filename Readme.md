@@ -29,10 +29,10 @@
 - 0.2.16-248  update horizon mode, update kalman, update acc update rate
 - 0.2.17-249  make Dshot 600 default
 - 0.2.18-250  [Acro-Mode fixed] 2.17 combine gyro and acc
-- 0.2.20-253  0.2.20 revert the complimentary filter
-- 0.2.21-254  0.2.21 slight change to dterm calc (like the old days)
-- 0.2.22-255  update FF to use the iDT instead of pidfrequency
-- 0.2.23-256  [Known good] 0.2.23 spa per axis, acrotrainer removed
+- 0.2.20-253  0.2.20 revert the complimentary filter [0.2.20](https://github.com/emuflight/EmuFlight/commit/856650e558a123e633912732f29d5554364574a1)
+- 0.2.21-254  0.2.21 slight change to dterm calc (like the old days) [0.2.21](https://github.com/emuflight/EmuFlight/commit/219a6a3f53e29a267063ae7877fd49774899d0de)
+- 0.2.22-255  update FF to use the iDT instead of pidfrequency [0.2.22](https://github.com/emuflight/EmuFlight/commit/359e767e7d6cd279bc63e5db364b7f4c62a8db25)
+- 0.2.23-256  [Known good] spa per axis, acrotrainer removed [0.2.23](https://github.com/emuflight/EmuFlight/commit/8db96683dc3ad0c3a4e9bb421139975c66577e5f)
 - 0.2.24-260  [experimental/bug] 0.2.24 (added a min/max motor change) (first w/ 1.44msp number but no msp change)
 - 0.2.25-261  [experimental iTerm Calcs v1]
 - 0.2.26-262  [experimental iTerm Calcs v2 / fixed bug, but horrible drift] 0.2.26
@@ -44,7 +44,7 @@
 - 0.2.30-271  fixing silly targets
 - 0.2.31-272  QuickFlash is an idiot helio works on this (2020 Feb 08)
 - 0.2.32-273  Removed r_weight, made static; removed the motor min/max changes; added sharpness for helio imuf. first  w/ v2fonts.
-- 0.2.33-274  better defaults smart_dterm_yaw=0, witchcraft_yaw=0
+- 0.2.33-274  better defaults smart_dterm_yaw=0, witchcraft_yaw=0 [0.2.33](https://github.com/emuflight/EmuFlight/commit/ae4b3901d0002ecd17c2eb8cce1f4fdc07e2953c)
 - 0.2.34-275  increasing max value for IMUF Sharpness as well as imuf 227 [0.2.34](https://github.com/emuflight/EmuFlight/commit/dbfca3c25c022d1e71c234cc88a2b37393bca2f5)
 - 0.2.35-276  msp updates, change to vbat pid compensation, now it only effects pterm [0.2.35](https://github.com/emuflight/EmuFlight/commit/4e9f735e95b8da62fa2fd519def32716b7a06ff4)
 
