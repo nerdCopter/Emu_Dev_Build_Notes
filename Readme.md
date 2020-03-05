@@ -50,3 +50,4 @@
 - 0.2.36-278 Make angle mode better. [0.2.36 ](https://github.com/emuflight/EmuFlight/commit/3a1e2c391a2e17ebe7733f03175a645c10732966)
 - 0.2.37-282 pre-sharpness imuf compatibility. [0.2.37](https://github.com/emuflight/EmuFlight/commit/905afd4a63ee391bb11b6d80f48ba589e15c5a82)
 - 0.2.38-292 Sharpness all FC. [0.2.38](https://github.com/emuflight/EmuFlight/commit/6f2d6d363f65bfc9a29e2265bf081028797d1916)
+- 0.2.38-294 add a form of sharpness for regular fc. [0.2.38](https://github.com/emuflight/EmuFlight/commit/2cd825c30d57e79fdccc55e5de43df303c30533c)
