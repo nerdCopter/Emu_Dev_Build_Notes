@@ -47,4 +47,6 @@
 - 0.2.33-274  better defaults smart_dterm_yaw=0, witchcraft_yaw=0 [0.2.33](https://github.com/emuflight/EmuFlight/commit/ae4b3901d0002ecd17c2eb8cce1f4fdc07e2953c)
 - 0.2.34-275  increasing max value for IMUF Sharpness as well as imuf 227 [0.2.34](https://github.com/emuflight/EmuFlight/commit/dbfca3c25c022d1e71c234cc88a2b37393bca2f5)
 - 0.2.35-276  msp updates, change to vbat pid compensation, now it only effects pterm [0.2.35](https://github.com/emuflight/EmuFlight/commit/4e9f735e95b8da62fa2fd519def32716b7a06ff4)
-
+- 0.2.36-278 Make angle mode better. [0.2.36 ](https://github.com/emuflight/EmuFlight/commit/3a1e2c391a2e17ebe7733f03175a645c10732966)
+- 0.2.37-282 pre-sharpness imuf compatibility. [0.2.37](https://github.com/emuflight/EmuFlight/commit/905afd4a63ee391bb11b6d80f48ba589e15c5a82)
+- 0.2.38-292 Sharpness all FC. [0.2.38](https://github.com/emuflight/EmuFlight/commit/6f2d6d363f65bfc9a29e2265bf081028797d1916)
