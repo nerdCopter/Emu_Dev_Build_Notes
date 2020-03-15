@@ -51,3 +51,5 @@
 - 0.2.37-282 pre-sharpness imuf compatibility. [0.2.37](https://github.com/emuflight/EmuFlight/commit/905afd4a63ee391bb11b6d80f48ba589e15c5a82)
 - 0.2.38-292 Sharpness all FC. [0.2.38](https://github.com/emuflight/EmuFlight/commit/6f2d6d363f65bfc9a29e2265bf081028797d1916)
 - 0.2.38-294 add a form of sharpness for regular fc. [0.2.38](https://github.com/emuflight/EmuFlight/commit/2cd825c30d57e79fdccc55e5de43df303c30533c)
+- 0.2.39 (squish of all)  tylercorleone/vbat_compensation_throttle_comp_fix , .vbatLpfPeriod=35
+- 0.2.40 squich of gyro-fix, cineamtic removal and dynamic notch? 
