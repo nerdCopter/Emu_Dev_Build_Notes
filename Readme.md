@@ -56,3 +56,4 @@
 - 0.2.41-484 [fcb39ac](https://github.com/emuflight/EmuFlight/commit/fcb39ac78f084071614a950c2257b3f1675a366c) Branch: `Stick-Pids`
 - 0.2.42-495 [bd89c16](https://github.com/emuflight/EmuFlight/commit/bd89c16a67459ba8b42d0b552b50c7899de5b740) Branch: `1testing-stick-pids-and-dyn-notch-update` 
 - 0.2.43-550 [d475da6](https://github.com/emuflight/EmuFlight/commit/d475da6436d8707ca0ad96aefa99c09e79a8c050) Branch: `Stick-Pids`
+- 0.2.53 the last 0.2.X code.  `git checkout 0.2.XX_maintenance`
